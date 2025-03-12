@@ -7,6 +7,9 @@ Soy estudiante de Desarrollo de Software en el Instituto Itec, actualmente en se
   .
 -
 <Br>
-<h3> Mis habilidades </h3>
 <hr>
-<h4> Idiomas </h4>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+</span>
